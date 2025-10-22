@@ -1,4 +1,4 @@
-# Nmap Security Scanner & AI Analyzer
+# Port Security Scanner & AI Analyzer
 
 This project allows you to perform an Nmap scan on any IP address you want to test for security. The scan results can be analyzed by an AI to generate a detailed report including CVE information.  
 
