@@ -21,6 +21,6 @@ You can export the analysis as **text** or **PDF**, and previously performed sca
 ```bash
 python main.py
 ```
-##Explanation
+## Explanation
 This project was developed in collaboration with my teammate @qanaryq.
 
