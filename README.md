@@ -20,11 +20,7 @@ You can export the analysis as **text** or **PDF**, and previously performed sca
 ## Usage
 ```bash
 python main.py
-
+```
 ##Explanation
 This project was developed in collaboration with my teammate @qanaryq.
-
-
-
-
 
